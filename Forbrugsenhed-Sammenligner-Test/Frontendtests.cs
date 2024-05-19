@@ -145,15 +145,17 @@ namespace Forbrugsenhed_Sammenligner_Test
 
         public object Result { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
 
-        public void Parse(string input)
-        {
-            IHaveBenUsed = true;
-            ParsedString = input;
-        }
+        
 
         public void Parse(Dictionary<string, string> adress)
         {
             throw new NotImplementedException();
+        }
+
+        Dictionary<string, string> IParser.Parse(Dictionary<string, string> adress)
+        {
+            IHaveBenUsed = true;
+            return adress;
         }
     }
     public class testComparer : IAddressCompare

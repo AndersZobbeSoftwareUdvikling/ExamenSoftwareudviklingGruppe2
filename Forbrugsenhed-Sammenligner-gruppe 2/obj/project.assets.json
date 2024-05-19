@@ -348,23 +348,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Stefan\\.nuget\\packages\\": {},
+    "C:\\Users\\Ander\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Stefan\\Documents\\GitHub\\SoftwareKvalitetExamen-Gruppe2\\Forbrugsenhed-Sammenligner-gruppe 2\\Forbrugsenhed-Sammenligner-gruppe-2.csproj",
+      "projectUniqueName": "C:\\Users\\Ander\\source\\repos\\ExamenSoftwareudviklingGruppe2\\Forbrugsenhed-Sammenligner-gruppe 2\\Forbrugsenhed-Sammenligner-gruppe-2.csproj",
       "projectName": "Forbrugsenhed-Sammenligner-gruppe-2",
-      "projectPath": "C:\\Users\\Stefan\\Documents\\GitHub\\SoftwareKvalitetExamen-Gruppe2\\Forbrugsenhed-Sammenligner-gruppe 2\\Forbrugsenhed-Sammenligner-gruppe-2.csproj",
-      "packagesPath": "C:\\Users\\Stefan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Stefan\\Documents\\GitHub\\SoftwareKvalitetExamen-Gruppe2\\Forbrugsenhed-Sammenligner-gruppe 2\\obj\\",
+      "projectPath": "C:\\Users\\Ander\\source\\repos\\ExamenSoftwareudviklingGruppe2\\Forbrugsenhed-Sammenligner-gruppe 2\\Forbrugsenhed-Sammenligner-gruppe-2.csproj",
+      "packagesPath": "C:\\Users\\Ander\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ander\\source\\repos\\ExamenSoftwareudviklingGruppe2\\Forbrugsenhed-Sammenligner-gruppe 2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Stefan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ander\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -386,11 +386,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -437,7 +432,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

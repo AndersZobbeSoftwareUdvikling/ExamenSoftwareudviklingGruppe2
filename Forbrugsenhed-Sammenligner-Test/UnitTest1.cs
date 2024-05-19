@@ -10,16 +10,16 @@ namespace Forbrugsenhed_Sammenligner_Test
         
         [Theory]
         [ClassData(typeof(AdressData))]
-        public void AdresseGetsParsedCorectly(string recivedName, Dictionary<string, string> output)
+        public void AdresseGetsParsedCorectly(Dictionary<string, string> input, Dictionary<string, string> output)
         {
             //Arange
             AddressParser addressParser = new AddressParser();
 
             //Act
-            //addressParser.Parse();
+            var result = addressParser.Parse(input);
 
             //Asert
-            addressParser.Result.Should().BeEquivalentTo(output);
+            result.Should().BeEquivalentTo(output);
         }
         [Theory]
         [ClassData(typeof(CompareTestData))]
@@ -57,7 +57,18 @@ namespace Forbrugsenhed_Sammenligner_Test
                     adressbreakdown.Add("by", values[6]);
                     adressbreakdown.Add("postnummer", values[7]);
 
-                    result.Add(new object[] { values[1], adressbreakdown });
+                    Dictionary<string, string> adressInput = new Dictionary<string, string>();
+
+                    line = reader.ReadLine();
+                    values = line.Split(';');
+                    adressInput.Add("vejnavn", values[2]);
+                    adressInput.Add("husnummer", values[3]);
+                    adressInput.Add("etage", values[4]);
+                    adressInput.Add("doernummer", values[5]);
+                    adressInput.Add("by", values[6]);
+                    adressInput.Add("postnummer", values[7]);
+
+                    result.Add(new object[] { adressInput, adressbreakdown });
                 }
             }
             foreach (object[] adresspair in result)

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Forbrugsenhed-Sammenligner-Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3079d879e61d29d438e2761584ffbd8006b7c7b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b32fe93fa244732b05ac5f507fe018e858353b1d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Forbrugsenhed-Sammenligner-Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Forbrugsenhed-Sammenligner-Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
