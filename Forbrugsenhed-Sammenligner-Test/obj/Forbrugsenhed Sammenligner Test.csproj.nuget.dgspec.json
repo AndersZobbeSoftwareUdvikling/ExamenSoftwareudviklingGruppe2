@@ -1,0 +1,197 @@
+{
+  "format": 1,
+  "restore": {
+<<<<<<<< HEAD:Forbrugsenhed-Sammenligner-Test/obj/Forbrugsenhed Sammenligner Test.csproj.nuget.dgspec.json
+    "C:\\Users\\Ander\\source\\repos\\SoftwareKvalitetExamen-Gruppe2\\Forbrugsenhed Sammenligner Test\\Forbrugsenhed Sammenligner Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ander\\source\\repos\\SoftwareKvalitetExamen-Gruppe2\\Forbrugsenhed Sammenligner Test\\Forbrugsenhed Sammenligner Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ander\\source\\repos\\SoftwareKvalitetExamen-Gruppe2\\Forbrugsenhed Sammenligner Test\\Forbrugsenhed Sammenligner Test.csproj",
+        "projectName": "Forbrugsenhed Sammenligner Test",
+        "projectPath": "C:\\Users\\Ander\\source\\repos\\SoftwareKvalitetExamen-Gruppe2\\Forbrugsenhed Sammenligner Test\\Forbrugsenhed Sammenligner Test.csproj",
+        "packagesPath": "C:\\Users\\Ander\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ander\\source\\repos\\SoftwareKvalitetExamen-Gruppe2\\Forbrugsenhed Sammenligner Test\\obj\\",
+========
+    "C:\\Users\\Stefan\\Source\\Repos\\SoftwareKvalitetExamen-Gruppe2\\Forbrugsenhed Sammenligner Test\\Forbrugsenhed Sammenligner Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Stefan\\Source\\Repos\\SoftwareKvalitetExamen-Gruppe2\\Forbrugsenhed Sammenligner Test\\Forbrugsenhed Sammenligner Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Stefan\\Source\\Repos\\SoftwareKvalitetExamen-Gruppe2\\Forbrugsenhed Sammenligner Test\\Forbrugsenhed Sammenligner Test.csproj",
+        "projectName": "Forbrugsenhed Sammenligner Test",
+        "projectPath": "C:\\Users\\Stefan\\Source\\Repos\\SoftwareKvalitetExamen-Gruppe2\\Forbrugsenhed Sammenligner Test\\Forbrugsenhed Sammenligner Test.csproj",
+        "packagesPath": "C:\\Users\\Stefan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Stefan\\Source\\Repos\\SoftwareKvalitetExamen-Gruppe2\\Forbrugsenhed Sammenligner Test\\obj\\",
+>>>>>>>> UnitTesting:Forbrugsenhed-Sammenligner-Test/obj/Forbrugsenhed-Sammenligner-Test.csproj.nuget.dgspec.json
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Stefan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+<<<<<<<< HEAD:Forbrugsenhed-Sammenligner-Test/obj/Forbrugsenhed Sammenligner Test.csproj.nuget.dgspec.json
+              "C:\\Users\\Ander\\source\\repos\\SoftwareKvalitetExamen-Gruppe2\\Forbrugsenhed Sammenligner-gruppe 2\\Forbrugsenhed Sammenligner-gruppe 2.csproj": {
+                "projectPath": "C:\\Users\\Ander\\source\\repos\\SoftwareKvalitetExamen-Gruppe2\\Forbrugsenhed Sammenligner-gruppe 2\\Forbrugsenhed Sammenligner-gruppe 2.csproj"
+========
+              "C:\\Users\\Stefan\\Source\\Repos\\SoftwareKvalitetExamen-Gruppe2\\Forbrugsenhed Sammenligner-gruppe 2\\Forbrugsenhed Sammenligner-gruppe 2.csproj": {
+                "projectPath": "C:\\Users\\Stefan\\Source\\Repos\\SoftwareKvalitetExamen-Gruppe2\\Forbrugsenhed Sammenligner-gruppe 2\\Forbrugsenhed Sammenligner-gruppe 2.csproj"
+>>>>>>>> UnitTesting:Forbrugsenhed-Sammenligner-Test/obj/Forbrugsenhed-Sammenligner-Test.csproj.nuget.dgspec.json
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.6.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+<<<<<<<< HEAD:Forbrugsenhed-Sammenligner-Test/obj/Forbrugsenhed Sammenligner Test.csproj.nuget.dgspec.json
+    "C:\\Users\\Ander\\source\\repos\\SoftwareKvalitetExamen-Gruppe2\\Forbrugsenhed Sammenligner-gruppe 2\\Forbrugsenhed Sammenligner-gruppe 2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ander\\source\\repos\\SoftwareKvalitetExamen-Gruppe2\\Forbrugsenhed Sammenligner-gruppe 2\\Forbrugsenhed Sammenligner-gruppe 2.csproj",
+        "projectName": "Forbrugsenhed_Sammenligner-gruppe_2",
+        "projectPath": "C:\\Users\\Ander\\source\\repos\\SoftwareKvalitetExamen-Gruppe2\\Forbrugsenhed Sammenligner-gruppe 2\\Forbrugsenhed Sammenligner-gruppe 2.csproj",
+        "packagesPath": "C:\\Users\\Ander\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ander\\source\\repos\\SoftwareKvalitetExamen-Gruppe2\\Forbrugsenhed Sammenligner-gruppe 2\\obj\\",
+========
+    "C:\\Users\\Stefan\\Source\\Repos\\SoftwareKvalitetExamen-Gruppe2\\Forbrugsenhed Sammenligner-gruppe 2\\Forbrugsenhed Sammenligner-gruppe 2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Stefan\\Source\\Repos\\SoftwareKvalitetExamen-Gruppe2\\Forbrugsenhed Sammenligner-gruppe 2\\Forbrugsenhed Sammenligner-gruppe 2.csproj",
+        "projectName": "Forbrugsenhed_Sammenligner-gruppe_2",
+        "projectPath": "C:\\Users\\Stefan\\Source\\Repos\\SoftwareKvalitetExamen-Gruppe2\\Forbrugsenhed Sammenligner-gruppe 2\\Forbrugsenhed Sammenligner-gruppe 2.csproj",
+        "packagesPath": "C:\\Users\\Stefan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Stefan\\Source\\Repos\\SoftwareKvalitetExamen-Gruppe2\\Forbrugsenhed Sammenligner-gruppe 2\\obj\\",
+>>>>>>>> UnitTesting:Forbrugsenhed-Sammenligner-Test/obj/Forbrugsenhed-Sammenligner-Test.csproj.nuget.dgspec.json
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Stefan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

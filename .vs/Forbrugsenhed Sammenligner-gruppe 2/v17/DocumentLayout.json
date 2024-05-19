@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Stefan\\source\\repos\\SoftwareKvalitetExamen-Gruppe2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A71A55A7-0DEE-4593-A481-B9904BB3C14C}|Forbrugsenhed Sammenligner-gruppe 2\\Forbrugsenhed-Sammenligner-gruppe 2.csproj|c:\\users\\stefan\\source\\repos\\softwarekvalitetexamen-gruppe2\\forbrugsenhed sammenligner-gruppe 2\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A71A55A7-0DEE-4593-A481-B9904BB3C14C}|Forbrugsenhed Sammenligner-gruppe 2\\Forbrugsenhed-Sammenligner-gruppe 2.csproj|solutionrelative:forbrugsenhed sammenligner-gruppe 2\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71A55A7-0DEE-4593-A481-B9904BB3C14C}|Forbrugsenhed Sammenligner-gruppe 2\\Forbrugsenhed Sammenligner-gruppe 2.csproj|C:\\Users\\Stefan\\source\\repos\\SoftwareKvalitetExamen-Gruppe2\\forbrugsenhed sammenligner-gruppe 2\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A71A55A7-0DEE-4593-A481-B9904BB3C14C}|Forbrugsenhed Sammenligner-gruppe 2\\Forbrugsenhed Sammenligner-gruppe 2.csproj|solutionrelative:forbrugsenhed sammenligner-gruppe 2\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71A55A7-0DEE-4593-A481-B9904BB3C14C}|Forbrugsenhed Sammenligner-gruppe 2\\Forbrugsenhed Sammenligner-gruppe 2.csproj|c:\\users\\stefan\\source\\repos\\softwarekvalitetexamen-gruppe2\\forbrugsenhed sammenligner-gruppe 2\\components\\pages\\bfesammenlignerpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A71A55A7-0DEE-4593-A481-B9904BB3C14C}|Forbrugsenhed Sammenligner-gruppe 2\\Forbrugsenhed Sammenligner-gruppe 2.csproj|solutionrelative:forbrugsenhed sammenligner-gruppe 2\\components\\pages\\bfesammenlignerpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71A55A7-0DEE-4593-A481-B9904BB3C14C}|Forbrugsenhed Sammenligner-gruppe 2\\Forbrugsenhed Sammenligner-gruppe 2.csproj|C:\\Users\\Stefan\\source\\repos\\SoftwareKvalitetExamen-Gruppe2\\forbrugsenhed sammenligner-gruppe 2\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A71A55A7-0DEE-4593-A481-B9904BB3C14C}|Forbrugsenhed Sammenligner-gruppe 2\\Forbrugsenhed Sammenligner-gruppe 2.csproj|solutionrelative:forbrugsenhed sammenligner-gruppe 2\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71A55A7-0DEE-4593-A481-B9904BB3C14C}|Forbrugsenhed Sammenligner-gruppe 2\\Forbrugsenhed Sammenligner-gruppe 2.csproj|C:\\Users\\Stefan\\source\\repos\\SoftwareKvalitetExamen-Gruppe2\\forbrugsenhed sammenligner-gruppe 2\\components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A71A55A7-0DEE-4593-A481-B9904BB3C14C}|Forbrugsenhed Sammenligner-gruppe 2\\Forbrugsenhed Sammenligner-gruppe 2.csproj|solutionrelative:forbrugsenhed sammenligner-gruppe 2\\components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71A55A7-0DEE-4593-A481-B9904BB3C14C}|Forbrugsenhed Sammenligner-gruppe 2\\Forbrugsenhed Sammenligner-gruppe 2.csproj|C:\\Users\\Stefan\\source\\repos\\SoftwareKvalitetExamen-Gruppe2\\forbrugsenhed sammenligner-gruppe 2\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A71A55A7-0DEE-4593-A481-B9904BB3C14C}|Forbrugsenhed Sammenligner-gruppe 2\\Forbrugsenhed Sammenligner-gruppe 2.csproj|solutionrelative:forbrugsenhed sammenligner-gruppe 2\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71A55A7-0DEE-4593-A481-B9904BB3C14C}|Forbrugsenhed Sammenligner-gruppe 2\\Forbrugsenhed Sammenligner-gruppe 2.csproj|C:\\Users\\Stefan\\source\\repos\\SoftwareKvalitetExamen-Gruppe2\\forbrugsenhed sammenligner-gruppe 2\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A71A55A7-0DEE-4593-A481-B9904BB3C14C}|Forbrugsenhed Sammenligner-gruppe 2\\Forbrugsenhed Sammenligner-gruppe 2.csproj|solutionrelative:forbrugsenhed sammenligner-gruppe 2\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71A55A7-0DEE-4593-A481-B9904BB3C14C}|Forbrugsenhed Sammenligner-gruppe 2\\Forbrugsenhed Sammenligner-gruppe 2.csproj|C:\\Users\\Stefan\\source\\repos\\SoftwareKvalitetExamen-Gruppe2\\forbrugsenhed sammenligner-gruppe 2\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A71A55A7-0DEE-4593-A481-B9904BB3C14C}|Forbrugsenhed Sammenligner-gruppe 2\\Forbrugsenhed Sammenligner-gruppe 2.csproj|solutionrelative:forbrugsenhed sammenligner-gruppe 2\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71A55A7-0DEE-4593-A481-B9904BB3C14C}|Forbrugsenhed Sammenligner-gruppe 2\\Forbrugsenhed Sammenligner-gruppe 2.csproj|C:\\Users\\Stefan\\source\\repos\\SoftwareKvalitetExamen-Gruppe2\\forbrugsenhed sammenligner-gruppe 2\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A71A55A7-0DEE-4593-A481-B9904BB3C14C}|Forbrugsenhed Sammenligner-gruppe 2\\Forbrugsenhed Sammenligner-gruppe 2.csproj|solutionrelative:forbrugsenhed sammenligner-gruppe 2\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71A55A7-0DEE-4593-A481-B9904BB3C14C}|Forbrugsenhed Sammenligner-gruppe 2\\Forbrugsenhed Sammenligner-gruppe 2.csproj|C:\\Users\\Stefan\\source\\repos\\SoftwareKvalitetExamen-Gruppe2\\forbrugsenhed sammenligner-gruppe 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71A55A7-0DEE-4593-A481-B9904BB3C14C}|Forbrugsenhed Sammenligner-gruppe 2\\Forbrugsenhed Sammenligner-gruppe 2.csproj|solutionrelative:forbrugsenhed sammenligner-gruppe 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71A55A7-0DEE-4593-A481-B9904BB3C14C}|Forbrugsenhed Sammenligner-gruppe 2\\Forbrugsenhed Sammenligner-gruppe 2.csproj|C:\\Users\\Stefan\\source\\repos\\SoftwareKvalitetExamen-Gruppe2\\forbrugsenhed sammenligner-gruppe 2\\apicaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71A55A7-0DEE-4593-A481-B9904BB3C14C}|Forbrugsenhed Sammenligner-gruppe 2\\Forbrugsenhed Sammenligner-gruppe 2.csproj|solutionrelative:forbrugsenhed sammenligner-gruppe 2\\apicaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainLayout.razor.css",
+              "DocumentMoniker": "C:\\Users\\Stefan\\source\\repos\\SoftwareKvalitetExamen-Gruppe2\\Forbrugsenhed Sammenligner-gruppe 2\\Components\\Layout\\MainLayout.razor.css",
+              "RelativeDocumentMoniker": "Forbrugsenhed Sammenligner-gruppe 2\\Components\\Layout\\MainLayout.razor.css",
+              "ToolTip": "C:\\Users\\Stefan\\source\\repos\\SoftwareKvalitetExamen-Gruppe2\\Forbrugsenhed Sammenligner-gruppe 2\\Components\\Layout\\MainLayout.razor.css",
+              "RelativeToolTip": "Forbrugsenhed Sammenligner-gruppe 2\\Components\\Layout\\MainLayout.razor.css",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-07T10:26:03.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BFESammenlignerPage.razor",
+              "DocumentMoniker": "C:\\Users\\Stefan\\source\\repos\\SoftwareKvalitetExamen-Gruppe2\\Forbrugsenhed Sammenligner-gruppe 2\\Components\\Pages\\BFESammenlignerPage.razor",
+              "RelativeDocumentMoniker": "Forbrugsenhed Sammenligner-gruppe 2\\Components\\Pages\\BFESammenlignerPage.razor",
+              "ToolTip": "C:\\Users\\Stefan\\source\\repos\\SoftwareKvalitetExamen-Gruppe2\\Forbrugsenhed Sammenligner-gruppe 2\\Components\\Pages\\BFESammenlignerPage.razor",
+              "RelativeToolTip": "Forbrugsenhed Sammenligner-gruppe 2\\Components\\Pages\\BFESammenlignerPage.razor",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T07:50:38.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainLayout.razor.css",
+              "DocumentMoniker": "C:\\Users\\Stefan\\source\\repos\\SoftwareKvalitetExamen-Gruppe2\\Forbrugsenhed Sammenligner-gruppe 2\\Components\\Layout\\MainLayout.razor.css",
+              "RelativeDocumentMoniker": "Forbrugsenhed Sammenligner-gruppe 2\\Components\\Layout\\MainLayout.razor.css",
+              "ToolTip": "C:\\Users\\Stefan\\source\\repos\\SoftwareKvalitetExamen-Gruppe2\\Forbrugsenhed Sammenligner-gruppe 2\\Components\\Layout\\MainLayout.razor.css",
+              "RelativeToolTip": "Forbrugsenhed Sammenligner-gruppe 2\\Components\\Layout\\MainLayout.razor.css",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-06T10:15:55.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NavMenu.razor.css",
+              "DocumentMoniker": "C:\\Users\\Stefan\\source\\repos\\SoftwareKvalitetExamen-Gruppe2\\Forbrugsenhed Sammenligner-gruppe 2\\Components\\Layout\\NavMenu.razor.css",
+              "RelativeDocumentMoniker": "Forbrugsenhed Sammenligner-gruppe 2\\Components\\Layout\\NavMenu.razor.css",
+              "ToolTip": "C:\\Users\\Stefan\\source\\repos\\SoftwareKvalitetExamen-Gruppe2\\Forbrugsenhed Sammenligner-gruppe 2\\Components\\Layout\\NavMenu.razor.css",
+              "RelativeToolTip": "Forbrugsenhed Sammenligner-gruppe 2\\Components\\Layout\\NavMenu.razor.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-06T10:15:45.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "APICaller.cs",
+              "DocumentMoniker": "C:\\Users\\Stefan\\source\\repos\\SoftwareKvalitetExamen-Gruppe2\\Forbrugsenhed Sammenligner-gruppe 2\\APICaller.cs",
+              "RelativeDocumentMoniker": "Forbrugsenhed Sammenligner-gruppe 2\\APICaller.cs",
+              "ToolTip": "C:\\Users\\Stefan\\source\\repos\\SoftwareKvalitetExamen-Gruppe2\\Forbrugsenhed Sammenligner-gruppe 2\\APICaller.cs",
+              "RelativeToolTip": "Forbrugsenhed Sammenligner-gruppe 2\\APICaller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T07:49:03.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Stefan\\source\\repos\\SoftwareKvalitetExamen-Gruppe2\\Forbrugsenhed Sammenligner-gruppe 2\\Program.cs",
+              "RelativeDocumentMoniker": "Forbrugsenhed Sammenligner-gruppe 2\\Program.cs",
+              "ToolTip": "C:\\Users\\Stefan\\source\\repos\\SoftwareKvalitetExamen-Gruppe2\\Forbrugsenhed Sammenligner-gruppe 2\\Program.cs",
+              "RelativeToolTip": "Forbrugsenhed Sammenligner-gruppe 2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T08:11:15.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Stefan\\source\\repos\\SoftwareKvalitetExamen-Gruppe2\\Forbrugsenhed Sammenligner-gruppe 2\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Forbrugsenhed Sammenligner-gruppe 2\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Stefan\\source\\repos\\SoftwareKvalitetExamen-Gruppe2\\Forbrugsenhed Sammenligner-gruppe 2\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Forbrugsenhed Sammenligner-gruppe 2\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T10:01:11.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\Stefan\\source\\repos\\SoftwareKvalitetExamen-Gruppe2\\Forbrugsenhed Sammenligner-gruppe 2\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "Forbrugsenhed Sammenligner-gruppe 2\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\Stefan\\source\\repos\\SoftwareKvalitetExamen-Gruppe2\\Forbrugsenhed Sammenligner-gruppe 2\\Components\\Routes.razor",
+              "RelativeToolTip": "Forbrugsenhed Sammenligner-gruppe 2\\Components\\Routes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T09:58:49.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Stefan\\source\\repos\\SoftwareKvalitetExamen-Gruppe2\\Forbrugsenhed Sammenligner-gruppe 2\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Forbrugsenhed Sammenligner-gruppe 2\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\Stefan\\source\\repos\\SoftwareKvalitetExamen-Gruppe2\\Forbrugsenhed Sammenligner-gruppe 2\\Components\\App.razor",
+              "RelativeToolTip": "Forbrugsenhed Sammenligner-gruppe 2\\Components\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T10:13:52.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Stefan\\source\\repos\\SoftwareKvalitetExamen-Gruppe2\\Forbrugsenhed Sammenligner-gruppe 2\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Forbrugsenhed Sammenligner-gruppe 2\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Stefan\\source\\repos\\SoftwareKvalitetExamen-Gruppe2\\Forbrugsenhed Sammenligner-gruppe 2\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Forbrugsenhed Sammenligner-gruppe 2\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T09:58:34.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Stefan\\source\\repos\\SoftwareKvalitetExamen-Gruppe2\\Forbrugsenhed Sammenligner-gruppe 2\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Forbrugsenhed Sammenligner-gruppe 2\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Stefan\\source\\repos\\SoftwareKvalitetExamen-Gruppe2\\Forbrugsenhed Sammenligner-gruppe 2\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Forbrugsenhed Sammenligner-gruppe 2\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T09:58:30.079Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

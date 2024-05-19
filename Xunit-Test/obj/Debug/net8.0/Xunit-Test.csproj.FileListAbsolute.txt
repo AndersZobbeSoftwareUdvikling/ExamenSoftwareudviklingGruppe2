@@ -1,0 +1,13 @@
+C:\Users\Stefan\Source\Repos\SoftwareKvalitetExamen-Gruppe2\Xunit-Test\obj\Debug\net8.0\Xunit-Test.csproj.AssemblyReference.cache
+C:\Users\Stefan\Source\Repos\SoftwareKvalitetExamen-Gruppe2\Xunit-Test\obj\Debug\net8.0\Xunit-Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan\Source\Repos\SoftwareKvalitetExamen-Gruppe2\Xunit-Test\obj\Debug\net8.0\Xunit-Test.AssemblyInfoInputs.cache
+C:\Users\Stefan\Source\Repos\SoftwareKvalitetExamen-Gruppe2\Xunit-Test\obj\Debug\net8.0\Xunit-Test.AssemblyInfo.cs
+C:\Users\Stefan\Source\Repos\SoftwareKvalitetExamen-Gruppe2\Xunit-Test\obj\Debug\net8.0\Xunit-Test.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Source\Repos\SoftwareKvalitetExamen-Gruppe2\Xunit-Test\obj\Debug\net8.0\Xunit-Test.sourcelink.json
+C:\Users\Ander\source\repos\SoftwareKvalitetExamen-Gruppe2\Xunit-Test\bin\Debug\net8.0\CoverletSourceRootsMapping_Xunit-Test
+C:\Users\Ander\source\repos\SoftwareKvalitetExamen-Gruppe2\Xunit-Test\obj\Debug\net8.0\Xunit-Test.csproj.AssemblyReference.cache
+C:\Users\Ander\source\repos\SoftwareKvalitetExamen-Gruppe2\Xunit-Test\obj\Debug\net8.0\Xunit-Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ander\source\repos\SoftwareKvalitetExamen-Gruppe2\Xunit-Test\obj\Debug\net8.0\Xunit-Test.AssemblyInfoInputs.cache
+C:\Users\Ander\source\repos\SoftwareKvalitetExamen-Gruppe2\Xunit-Test\obj\Debug\net8.0\Xunit-Test.AssemblyInfo.cs
+C:\Users\Ander\source\repos\SoftwareKvalitetExamen-Gruppe2\Xunit-Test\obj\Debug\net8.0\Xunit-Test.csproj.CoreCompileInputs.cache
+C:\Users\Ander\source\repos\SoftwareKvalitetExamen-Gruppe2\Xunit-Test\obj\Debug\net8.0\Xunit-Test.sourcelink.json

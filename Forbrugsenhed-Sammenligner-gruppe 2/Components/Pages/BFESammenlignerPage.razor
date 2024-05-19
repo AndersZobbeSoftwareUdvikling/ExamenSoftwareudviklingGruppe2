@@ -1,0 +1,103 @@
+﻿@page "/sammenligner"
+@rendermode InteractiveServer
+
+<PageTitle>Adresse Sammenligner</PageTitle>
+
+<h1 style="text-align:center">Adresse Sammenligner</h1>
+<div>
+    <textarea name="Adress1Output" style="width: 300px; height: 300px;">@Adress1Output</textarea>
+    <textarea style="width: 300px; height: 300px;">Sammenlignings resulat:</textarea>
+    <textarea name="Adress2Output" style="width: 300px; height: 300px;">@Adress2Output</textarea>
+</div>
+<textarea style="width: 300px; height: 30px;">First Address:</textarea>
+
+<div id="Søgefelt1">
+
+    <input type="input" @bind="adress1Vej" @bind:event="oninput" name="TextAdresse1"/>
+    <input type="number" @bind="adress1hus" @bind:event="oninput" name="TextAdresse1"/>
+    <input type="number" @bind="adress1etage" @bind:event="oninput" name="TextAdresse1"/>
+    <input type="number" @bind="adress1doer" @bind:event="oninput" name="TextAdresse1"/>
+    <input type="input" @bind="adress1by" @bind:event="oninput" name="TextAdresse1" />
+    <input type="number" @bind="adress1postnumber" @bind:event="oninput" name="TextAdresse1" />
+
+</div>
+<textarea style="width: 300px; height: 30px;">Second Address</textarea>
+
+<div id="Søgefelt2">
+
+    <input type="input" @bind="adress2Vej" @bind:event="oninput" name="TextAdresse1" />
+    <input type="number" @bind="adress2hus" @bind:event="oninput" name="TextAdresse1" />
+    <input type="number" @bind="adress2etage" @bind:event="oninput" name="TextAdresse1" />
+    <input type="number" @bind="adress2doer" @bind:event="oninput" name="TextAdresse1" />
+    <input type="input" @bind="adress2by" @bind:event="oninput" name="TextAdresse1" />
+    <input type="number" @bind="adress2postnumber" @bind:event="oninput" name="TextAdresse1" />
+
+</div>
+<div id="Søgeknap">
+    <button name="ButtonAdresse1" @onclick="() => Search(0)">Søg Adresse 1</button>
+    <button name="ButtonAdresse2" @onclick="() => Search(1)">Søg Adresse 2</button>
+</div>
+<div id="Clearknap">
+    <button name="ClearAdress1" @onclick="() => Adress1Output = string.Empty" >Clear adresse 1 data</button>
+    <button name="ClearAdress2" @onclick="() => Adress2Output = string.Empty">Clear adresse 2 data</button>
+</div>
+
+
+
+@code {
+    public IParser addressParser = new AddressParser();
+    public IAddressCompare addressCompare = new AddressCompare();
+    public IApiManager apiManager = new ApiManager();
+
+    public string Adress1Output = "";
+    public string Adress2Output = "";
+
+    private string? adress1Vej = "";
+    private string? adress1hus = "";
+    private string? adress1etage = "";
+    private string? adress1doer = "";
+    private string? adress1by = "";
+    private string? adress1postnumber = "";
+
+    private string? adress2Vej = "";
+    private string? adress2hus = "";
+    private string? adress2etage = "";
+    private string? adress2doer = "";
+    private string? adress2by = "";
+    private string? adress2postnumber = "ø";
+
+    public void Search(int adresse)
+    {
+        if(adresse == 0)
+        {
+            Dictionary<string, string> adress1 = new Dictionary<string, string>();
+            adress1.Add("Vej", adress1Vej);
+            adress1.Add("Hus", adress1hus);
+            adress1.Add("Etage", adress1etage);
+            adress1.Add("Doer", adress1doer);
+            adress1.Add("By", adress1by);
+            adress1.Add("Post", adress1postnumber);
+
+            adress1 = addressParser.Parse(adress1);
+
+            Adress1Output = apiManager.runApi(adress1);
+        }
+        else
+        {
+            Dictionary<string, string> adress2 = new Dictionary<string, string>();
+            adress2.Add("vej", adress2Vej);
+            adress2.Add("hus", adress2hus);
+            adress2.Add("etage", adress2etage);
+            adress2.Add("doer", adress2doer);
+            adress2.Add("by", adress2by);
+            adress2.Add("post", adress2postnumber);
+
+            adress2 = addressParser.Parse(adress2);
+
+            Adress2Output = apiManager.runApi(adress2);
+        }
+    }
+    
+
+
+}

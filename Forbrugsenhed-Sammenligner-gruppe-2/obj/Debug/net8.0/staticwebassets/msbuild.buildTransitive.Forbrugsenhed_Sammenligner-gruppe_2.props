@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Forbrugsenhed_Sammenligner-gruppe_2.props" />
+</Project>

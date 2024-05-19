@@ -1,0 +1,6 @@
+C:\Users\Stefan\Documents\GitHub\SoftwareKvalitetExamen-Gruppe2\Forbrugsenhed-Sammenligner-gruppe-2\obj\Debug\net8.0\Forbrugsenhed-Sammenligner-gruppe-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan\Documents\GitHub\SoftwareKvalitetExamen-Gruppe2\Forbrugsenhed-Sammenligner-gruppe-2\obj\Debug\net8.0\Forbrugsenhed-Sammenligner-gruppe-2.AssemblyInfoInputs.cache
+C:\Users\Stefan\Documents\GitHub\SoftwareKvalitetExamen-Gruppe2\Forbrugsenhed-Sammenligner-gruppe-2\obj\Debug\net8.0\Forbrugsenhed-Sammenligner-gruppe-2.AssemblyInfo.cs
+C:\Users\Stefan\Documents\GitHub\SoftwareKvalitetExamen-Gruppe2\Forbrugsenhed-Sammenligner-gruppe-2\obj\Debug\net8.0\Forbrugsenhed-Sammenligner-gruppe-2.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Documents\GitHub\SoftwareKvalitetExamen-Gruppe2\Forbrugsenhed-Sammenligner-gruppe-2\obj\Debug\net8.0\Forbrugsenhed-Sammenligner-gruppe-2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Stefan\Documents\GitHub\SoftwareKvalitetExamen-Gruppe2\Forbrugsenhed-Sammenligner-gruppe-2\obj\Debug\net8.0\Forbrugsenhed-Sammenligner-gruppe-2.sourcelink.json

@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Ander\\source\\repos\\SoftwareKvalitetExamen-Gruppe2\\Forbrugsenhed Sammenligner-gruppe 2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Forbrugsenhed_Sammenligner-gruppe_2.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Forbrugsenhed_Sammenligner-gruppe_2.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Ander\\source\\repos\\SoftwareKvalitetExamen-Gruppe2\\Forbrugsenhed Sammenligner-gruppe 2\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Ander\\source\\repos\\SoftwareKvalitetExamen-Gruppe2\\Forbrugsenhed Sammenligner-gruppe 2\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ander\\source\\repos\\SoftwareKvalitetExamen-Gruppe2\\Forbrugsenhed Sammenligner-gruppe 2\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ander\\source\\repos\\SoftwareKvalitetExamen-Gruppe2\\Forbrugsenhed Sammenligner-gruppe 2\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Forbrugsenhed_Sammenligner-gruppe_2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Forbrugsenhed_Sammenligner-gruppe_2.props",
+      "PackagePath": "build\\Forbrugsenhed_Sammenligner-gruppe_2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Forbrugsenhed_Sammenligner-gruppe_2.props",
+      "PackagePath": "buildMultiTargeting\\Forbrugsenhed_Sammenligner-gruppe_2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Forbrugsenhed_Sammenligner-gruppe_2.props",
+      "PackagePath": "buildTransitive\\Forbrugsenhed_Sammenligner-gruppe_2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

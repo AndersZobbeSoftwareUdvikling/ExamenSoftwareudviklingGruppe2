@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Forbrugsenhed-Sammenligner-gruppe-2.props" />
+</Project>

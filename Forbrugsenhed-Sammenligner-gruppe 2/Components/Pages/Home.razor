@@ -1,0 +1,74 @@
+﻿@page "/"
+@rendermode InteractiveServer
+<textarea style="width: 300px; height: 300px; margin-left: 15px;">@output</textarea>
+<div>
+<button @onclick="() => call()">ApicallKnap</button>
+</div>
+<PageTitle>Home</PageTitle>
+
+<h1>Hello, world!</h1>
+
+Welcome to your new app.
+
+@code{
+    APICallAdresseId apicall = new APICallAdresseId();
+    APICallJordstykke apicall2 = new APICallJordstykke();
+    APICallBFENummer apicall3 = new APICallBFENummer();
+    APICallBygningsInfo apicall4 = new APICallBygningsInfo();
+    APICallEnhedInfo apicall5 = new APICallEnhedInfo();
+    string output;
+
+    public void call()
+    {
+        List<string> a = new List<string> { "Seebladsgade", "201" };
+        var answer = apicall.Apicall(a); 
+        foreach(Dictionary<string,string> i in answer)
+        {
+            foreach(KeyValuePair<string,string> keyValuePair in i)
+            {
+                output = output + keyValuePair.Key + " = " + keyValuePair.Value;
+            }
+        }
+        string id = answer.First()["ID"];
+        answer = apicall2.Apicall(new List<string> { answer.First()["ID"] });
+        output = output + "\n Jordstykke \n";
+        foreach (Dictionary<string, string> i in answer)
+        {
+            foreach (KeyValuePair<string, string> keyValuePair in i)
+            {
+                output = output + keyValuePair.Key + " = " + keyValuePair.Value;
+            }
+        }
+        answer = apicall3.Apicall(new List<string> { answer.First()["Jordstykke"] });
+        output = output + "\n BFE \n";
+        foreach (Dictionary<string, string> i in answer)
+        {
+            foreach (KeyValuePair<string, string> keyValuePair in i)
+            {
+                output = output + keyValuePair.Key + " = " + keyValuePair.Value;
+            }
+        }
+        answer = apicall4.Apicall(new List<string> { answer.First()["Husnummer"] });
+        output = output + "\n Boliginfo \n";
+        foreach (Dictionary<string, string> i in answer)
+        {
+            foreach (KeyValuePair<string, string> keyValuePair in i)
+            {
+                output = output + keyValuePair.Key + " = " + keyValuePair.Value;
+            }
+        }
+        answer = apicall5.Apicall(new List<string> { id });
+        output = output + "\n Enhedinfo \n";
+        foreach (Dictionary<string, string> i in answer)
+        {
+            foreach (KeyValuePair<string, string> keyValuePair in i)
+            {
+                output = output + keyValuePair.Key + " = " + keyValuePair.Value;
+            }
+        }
+
+    }
+    
+    
+    
+}
